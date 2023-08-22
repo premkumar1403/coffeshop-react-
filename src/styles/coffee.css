@@ -1,0 +1,140 @@
+.firstcolor{
+     color: brown;
+}
+.firstleft{
+    padding-left:50px;
+}
+.firstright{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-top: 10px;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 500px;
+    font-size: 17px;
+    padding-top: 5px;
+}
+.paragraph{
+   background-color: brown;
+   border-radius: 3px;
+   color: aliceblue;
+padding: 5px;
+}
+.paragrap{
+    border:1px solid black;
+    color: brown;
+    padding: 5px;
+}
+.card{
+    height: 500px;
+    width: 1310px;
+    display: flexbox;
+    background-color: antiquewhite;
+    padding-left: 45px;
+}
+.head{
+    padding-left: 540px;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.small{
+    padding-left: 440px;
+    font-size: 14px;
+}
+.imagepara{
+    padding-left: 190px;
+}
+.subpara{
+   padding-left:180px;
+   font-size: 20px;
+}
+.subparagraph{
+    padding-left: 180px;
+}
+.hrrule{
+    color: red;
+    size: 80%;
+    width: 50%;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    padding-left: 300px;
+    gap: 200px;
+    }
+.java{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    
+}
+.last{
+    font-size: 20px;
+}
+.hrtag{
+    color: red;
+    size: 60%;
+    width: 50%;
+}
+.button{
+    border:1px solid brown;
+    margin-left: 650px;
+    padding: 10px;
+    color: brown;
+}
+.footer{
+    height: 300px;
+    width: 1350px;
+    display: flexbox;
+    background-color: black;
+    color: aliceblue;
+}
+.foot{
+    color: aliceblue;
+   padding-left: 600px;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.alignment{
+    padding-left: 500px;
+}
+.alignmen{
+    padding-left: 570px;
+}
+.alignme{
+    padding-left: 550px;
+}
+.social{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.atlast{
+     display: flex;
+     flex-direction: row;
+     gap: 360px;
+     padding-top: 10px;
+}
+.display{
+    padding-top: 10px;
+}
+.righ{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    gap: 710px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.lasttwo{
+   color: brown;
+}
+.lastone{
+    color: brown;
+}
