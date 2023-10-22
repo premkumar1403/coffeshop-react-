@@ -138,3 +138,19 @@ padding: 5px;
 .lastone{
     color: brown;
 }
+.cost{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 20px;
+}
+.box{
+background-color: bisque;
+border-radius: 10px;
+width: 200px;
+}
+.buy{
+background-color: bisque;
+border-radius: 10px;
+width: 200px;
+}
