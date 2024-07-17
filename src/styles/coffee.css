@@ -94,9 +94,10 @@ padding: 5px;
 }
 .foot{
     color: aliceblue;
-   padding-left: 600px;
+    padding-left: 600px;
     font-size: 30px;
     padding-top: 10px;
+    text-decoration: none;
 }
 .alignment{
     padding-left: 500px;
@@ -153,4 +154,14 @@ width: 200px;
 background-color: bisque;
 border-radius: 10px;
 width: 200px;
+}
+.move{
+    text-decoration: none;
+    color: white;
+}
+.tomove{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: brown;
 }

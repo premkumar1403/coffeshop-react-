@@ -1,5 +1,6 @@
 import React from 'react'
-import '../styles/coffee.css' 
+import './styles/coffee.css' 
+import { Link } from 'react-router-dom';
 const Head = () => {
   return (
     <div>
@@ -11,9 +12,9 @@ const Head = () => {
               <p>Menu</p>
               <p>Space</p>
               <p>Community</p>
-              <p>News</p>
-              <p className='paragraph'>Order</p>
-              <p className='paragrap'>Sign in</p>
+              <p><Link to='/About'>Aboutus</Link></p>
+              <Link to="/Menu"className='move'><p className='paragraph'>Order</p></Link>
+              <p className='paragrap'>Signin</p>
       </div></div>
 <div className='card'>
       <h1 className='head'>Our News</h1>
@@ -24,7 +25,8 @@ const Head = () => {
       </div>
      
       
-      <hr/>
+      <hr />
+      {/* <Link to ="/Menu">Our menus</Link> */}
       </div>
   )
 }
